@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Gesture",
+    "slug": "Gesture",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Gesture"
+}
